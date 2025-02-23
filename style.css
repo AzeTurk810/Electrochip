@@ -7,6 +7,58 @@
     font: 90 !important;
     font-weight: 800 !important;
 }
+.slider_s
+{
+    display: flex;
+    justify-content: center;
+
+}
+.pr
+{
+    color: #4b208c !important;
+}
+.card
+{
+    width: 352px !important;
+    height: 321px !important;
+}
+.imgc
+{
+    width: 90px;
+    height: 90px;
+}
+.fl
+{
+    display: flex !important;
+    justify-content: center !important;
+}
+.mrgt5
+{
+    margin-top: 15px;
+}
+.slider_i
+{
+    width: 443px !important;
+    height: 436px !important;
+    border-radius: 250px !important;
+}
+.slider_L
+{
+    width: 443px !important;
+    height: 436px !important;
+    border-radius: 250px !important;
+    border: #4b208c solid 8px !important;
+}
+.card:hover
+{
+    border-top: #4b208c solid 15px;
+    margin-top: -14px !important;
+    /* height: 306px !important; */
+}
+.card:active
+{
+    border-top: #4b208c solid 15px;
+}
 .finito-nav
 {
     display: flex;
